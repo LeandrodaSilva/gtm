@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" identifier="com.scorm.manifesttemplates.scorm12" version="1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="http://www.digitalpages.com.br">
+    <organization identifier="http://www.digitalpages.com.br">
+      <title>GTM</title>
+      <item identifier="f07b5df0-0033-46e5-8459-e6d1d5beec3f" identifierref="43197adb-153b-468c-89a6-a141c77f4a8c" isvisible="true">
+        <title>GTM</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="43197adb-153b-468c-89a6-a141c77f4a8c" type="webcontent" adlcp:scormType="sco" href="index.html">
+      <file href="index.html" />
+      <file href="precache-manifest.0e1fb0c2ab1e91cea2f7cb33781059ec.js" />
+      <file href="SCORM_API_PRODUCTION.js" />
+      <file href="asset-manifest.json" />
+      <file href="scorm_api_wrapper.js" />
+      <file href="api_context.json" />
+      <file href="favicon.png" />
+      <file href="__MACOSX/._favicon.png" />
+      <file href="static/css/2.b1b86650.chunk.css" />
+      <file href="static/css/main.8bb5428c.chunk.css.map" />
+      <file href="static/css/main.8bb5428c.chunk.css" />
+      <file href="static/css/2.b1b86650.chunk.css.map" />
+      <file href="static/js/main.b381a38d.chunk.js" />
+      <file href="static/js/2.3ef88bb2.chunk.js" />
+      <file href="static/js/runtime~main.d653cc00.js.map" />
+      <file href="static/js/main.b381a38d.chunk.js.map" />
+      <file href="static/js/runtime~main.d653cc00.js" />
+      <file href="static/js/2.3ef88bb2.chunk.js.map" />
+      <file href="static/media/icon-minus.568ac4bb.svg" />
+      <file href="static/media/Lora-Regular.c684a3de.ttf" />
+      <file href="static/media/Objective-Bold.393df4dd.otf" />
+      <file href="static/media/Lora-Bold.710665bb.ttf" />
+      <file href="static/media/KaTeX_Fraktur-Regular.e435cda5.woff" />
+      <file href="static/media/Grueber-Bold.f62bfce5.ttf" />
+      <file href="static/media/KaTeX_Size3-Regular.963af864.ttf" />
+      <file href="static/media/BradescoSans-Bold.290cd4ce.ttf" />
+      <file href="static/media/KaTeX_SansSerif-Regular.5f8637ee.woff" />
+      <file href="static/media/KaTeX_Size1-Regular.0d8d9204.ttf" />
+      <file href="static/media/KaTeX_Script-Regular.1b3161eb.woff2" />
+      <file href="static/media/FlamaCondensed-Bold.7f248135.otf" />
+      <file href="static/media/DuplicateIonicLight.f086df1e.otf" />
+      <file href="static/media/KaTeX_AMS-Regular.10824af7.woff" />
+      <file href="static/media/KaTeX_SansSerif-Italic.f60b4a34.ttf" />
+      <file href="static/media/drag.d4eb5d44.svg" />
+      <file href="static/media/Lato-Bold.85d339d9.ttf" />
+      <file href="static/media/KaTeX_Caligraphic-Regular.e6fb499f.ttf" />
+      <file href="static/media/Prompt-Bold.befa1f27.ttf" />
+      <file href="static/media/Lato-Regular.2d36b1a9.ttf" />
+      <file href="static/media/KaTeX_Size1-Regular.4788ba5b.woff" />
+      <file href="static/media/KaTeX_SansSerif-Bold.0e897d27.woff" />
+      <file href="static/media/KaTeX_Math-BoldItalic.6589c4f1.ttf" />
+      <file href="static/media/KaTeX_Typewriter-Regular.b8b8393d.woff2" />
+      <file href="static/media/icon-paint.33b88e5a.svg" />
+      <file href="static/media/KaTeX_Main-Italic.39349e0a.ttf" />
+      <file href="static/media/KaTeX_Main-Bold.8e431f7e.ttf" />
+      <file href="static/media/RobotoSlab-Bold.5b025a51.ttf" />
+      <file href="static/media/Grueber-Regular.b7d32346.ttf" />
+      <file href="static/media/image-1.e69dfd15.jpg" />
+      <file href="static/media/KaTeX_Script-Regular.a82fa2a7.woff" />
+      <file href="static/media/KaTeX_SansSerif-Italic.ef725de5.woff" />
+      <file href="static/media/KaTeX_Typewriter-Regular.0e046058.woff" />
+      <file href="static/media/check-circle.dbe57287.svg" />
+      <file href="static/media/KaTeX_Fraktur-Bold.40934fc0.woff" />
+      <file href="static/media/KaTeX_Size4-Regular.27a23ee6.ttf" />
+      <file href="static/media/KaTeX_Fraktur-Regular.f9e6a99f.woff2" />
+      <file href="static/media/BradescoSans-Regular.0cf28fe3.ttf" />
+      <file href="static/media/OpenSansCondensed-Bold.cfd3dce5.ttf" />
+      <file href="static/media/KaTeX_AMS-Regular.56573229.ttf" />
+      <file href="static/media/ProductSans-Regular.eae9c18c.ttf" />
+      <file href="static/media/KaTeX_Main-Regular.f8a7f19f.woff2" />
+      <file href="static/media/KaTeX_Fraktur-Bold.796f3797.woff2" />
+      <file href="static/media/OpenSansCondensed-Light.3589bddb.ttf" />
+      <file href="static/media/KaTeX_SansSerif-Regular.3243452e.ttf" />
+      <file href="static/media/ItauTextPro-Regular.c32edd32.ttf" />
+      <file href="static/media/DuplicateIonicHeavyItalic.3aae751d.otf" />
+      <file href="static/media/KaTeX_Typewriter-Regular.6bf42875.ttf" />
+      <file href="static/media/ItauDisplayPro-Regular.44363826.ttf" />
+      <file href="static/media/ItauTextPro-Bold.b553322a.ttf" />
+      <file href="static/media/Merriweather-Bold.d9f26381.ttf" />
+      <file href="static/media/Sharp-Sans-Medium-Italic.484c90ac.otf" />
+      <file href="static/media/KaTeX_Size4-Regular.61522cd3.woff2" />
+      <file href="static/media/KaTeX_Size4-Regular.3045a61f.woff" />
+      <file href="static/media/Sharp-Sans-Bold.5b27b7c9.otf" />
+      <file href="static/media/Sharp-Sans-Thin-Italic.a99c441d.otf" />
+      <file href="static/media/Sharp-Sans-ExtraBold-Italic.c924e0df.otf" />
+      <file href="static/media/image-3.cd0d3d4d.jpg" />
+      <file href="static/media/Prompt-Regular.16b4ce72.ttf" />
+      <file href="static/media/DuplicateIonicThinItalic.b54cd4c5.otf" />
+      <file href="static/media/KaTeX_Script-Regular.a189c37d.ttf" />
+      <file href="static/media/KaTeX_Caligraphic-Regular.a25140fb.woff" />
+      <file href="static/media/OpenSans-Regular.3ed9575d.ttf" />
+      <file href="static/media/RobotoCondensed-Regular.52ee8b59.ttf" />
+      <file href="static/media/KaTeX_SansSerif-Bold.ad546b47.woff2" />
+      <file href="static/media/ItauDisplayPro-Bold.42795dac.ttf" />
+      <file href="static/media/KaTeX_Math-BoldItalic.1320454d.woff2" />
+      <file href="static/media/KaTeX_Fraktur-Regular.97a699d8.ttf" />
+      <file href="static/media/KaTeX_Size3-Regular.9108a400.woff2" />
+      <file href="static/media/image-2.86947c34.jpg" />
+      <file href="static/media/image-4.11d32b56.jpg" />
+      <file href="static/media/Sharp-Sans.459d3df0.otf" />
+      <file href="static/media/Sharp-Sans-Italic.210d92f0.otf" />
+      <file href="static/media/KaTeX_Main-BoldItalic.52fb39b0.ttf" />
+      <file href="static/media/Ubuntu-Regular.2505bfbd.ttf" />
+      <file href="static/media/KaTeX_Caligraphic-Bold.a9e9b095.woff2" />
+      <file href="static/media/Sharp-Sans-Semibold-Italic.0e0b6710.otf" />
+      <file href="static/media/KaTeX_SansSerif-Bold.f2ac7312.ttf" />
+      <file href="static/media/DuplicateIonicBold.ddd21902.otf" />
+      <file href="static/media/KaTeX_Math-BoldItalic.48155e43.woff" />
+      <file href="static/media/Merriweather-Regular.fa69aefa.ttf" />
+      <file href="static/media/KaTeX_Main-BoldItalic.d8737343.woff2" />
+      <file href="static/media/KaTeX_Size2-Regular.b0628bfd.woff" />
+      <file href="static/media/Sharp-Sans-Medium.8e3bdf61.otf" />
+      <file href="static/media/KaTeX_Caligraphic-Bold.de2ba279.woff" />
+      <file href="static/media/RobotoCondensed-Bold.cbd4e701.ttf" />
+      <file href="static/media/Sharp-Sans-Bold-Italic.2f3dff77.otf" />
+      <file href="static/media/KaTeX_Size1-Regular.82ef26dc.woff2" />
+      <file href="static/media/DuplicateIonic.27c9aceb.otf" />
+      <file href="static/media/flama.54f5f645.otf" />
+      <file href="static/media/KaTeX_AMS-Regular.66c67820.woff2" />
+      <file href="static/media/HelveticaNeue-Bold.54c752c8.ttf" />
+      <file href="static/media/DuplicateIonicItalic.66c5c3ff.otf" />
+      <file href="static/media/ProximaNova-Bold.9dfaa480.ttf" />
+      <file href="static/media/KaTeX_SansSerif-Italic.e934cbc8.woff2" />
+      <file href="static/media/icon-plus.09cbc2f4.svg" />
+      <file href="static/media/DuplicateIonicMediumItalic.8c66fb4c.otf" />
+      <file href="static/media/icon-no-message.6a4af334.png" />
+      <file href="static/media/icon-done.574d8c28.svg" />
+      <file href="static/media/Sharp-Sans-Extrabold.4b112940.otf" />
+      <file href="static/media/KaTeX_SansSerif-Regular.1ac3ed6e.woff2" />
+      <file href="static/media/Sharp-Sans-Thin.5109482c.otf" />
+      <file href="static/media/DuplicateIonicHeavy.82f08274.otf" />
+      <file href="static/media/RobotoSlab-Regular.f7ffac60.ttf" />
+      <file href="static/media/icon-search.b13c6094.svg" />
+      <file href="static/media/KaTeX_Caligraphic-Bold.497bf407.ttf" />
+      <file href="static/media/KaTeX_Main-Italic.65297062.woff2" />
+      <file href="static/media/flama-bold.6fd97335.otf" />
+      <file href="static/media/DuplicateIonicBoldItalic.a79e323d.otf" />
+      <file href="static/media/KaTeX_Main-BoldItalic.5f875f98.woff" />
+      <file href="static/media/Sharp-Sans-Light-Italic.858f14af.otf" />
+      <file href="static/media/KaTeX_Main-Regular.f1cdb692.woff" />
+      <file href="static/media/Sharp-Sans-Light.372a03f1.otf" />
+      <file href="static/media/OpenSans-Bold.1025a6e0.ttf" />
+      <file href="static/media/KaTeX_Main-Bold.4cdba646.woff" />
+      <file href="static/media/DuplicateIonicLightItalic.bcbc1f04.otf" />
+      <file href="static/media/KaTeX_Caligraphic-Regular.08d95d99.woff2" />
+      <file href="static/media/Roboto-Regular.11eabca2.ttf" />
+      <file href="static/media/KaTeX_Main-Regular.818582da.ttf" />
+      <file href="static/media/DuplicateIonicThin.aab37b67.otf" />
+      <file href="static/media/Ubuntu-Bold.e00e2a77.ttf" />
+      <file href="static/media/KaTeX_Math-Italic.fe5ed587.ttf" />
+      <file href="static/media/icon-up.33eee0d5.svg" />
+      <file href="static/media/DuplicateIonicMedium.26cd309c.otf" />
+      <file href="static/media/Objective-Regular.dfd73d4c.otf" />
+      <file href="static/media/HelveticaNeue-Regular.ad205566.ttf" />
+      <file href="static/media/Montserrat-Bold.ade91f47.ttf" />
+      <file href="static/media/icon-down.2dbaebd5.svg" />
+      <file href="static/media/KaTeX_Math-Italic.ed7aea12.woff" />
+      <file href="static/media/KaTeX_Size2-Regular.1fdda0e5.ttf" />
+      <file href="static/media/FlamaCondensed-Light.5e4e37d0.otf" />
+      <file href="static/media/Sharp-Sans-Semibold.e2a4f104.otf" />
+      <file href="static/media/Roboto-Bold.e07df86c.ttf" />
+      <file href="static/media/KaTeX_Fraktur-Bold.b9d7c449.ttf" />
+      <file href="static/media/ProximaNova-Regular.6e80cc71.ttf" />
+      <file href="static/media/TitilliumWeb-Regular.4f5848e6.ttf" />
+      <file href="static/media/close.118d1d00.svg" />
+      <file href="static/media/KaTeX_Math-Italic.d8b7a801.woff2" />
+      <file href="static/media/KaTeX_Size3-Regular.4de844d4.woff" />
+      <file href="static/media/image-5.c4ddcbaf.jpg" />
+      <file href="static/media/copy.a3c00457.svg" />
+      <file href="static/media/image-6.54678425.jpg" />
+      <file href="static/media/KaTeX_Main-Bold.a9382e25.woff2" />
+      <file href="static/media/KaTeX_Size2-Regular.95a1da91.woff2" />
+      <file href="static/media/KaTeX_Main-Italic.8ffd28f6.woff" />
+      <file href="static/media/Montserrat-Regular.ee653992.ttf" />
+      <file href="static/media/ProductSans-Bold.dba0c688.ttf" />
+      <file href="service-worker.js" />
+    </resource>
+  </resources>
+</manifest>
