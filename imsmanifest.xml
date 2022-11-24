@@ -7,13 +7,13 @@
   <organizations default="http://www.digitalpages.com.br">
     <organization identifier="http://www.digitalpages.com.br">
       <title>GTM</title>
-      <item identifier="f07b5df0-0033-46e5-8459-e6d1d5beec3f" identifierref="43197adb-153b-468c-89a6-a141c77f4a8c" isvisible="true">
+      <item identifier="534a8390-90b0-4a9b-9930-877ef5319288" identifierref="96cfcfe1-270b-44c9-bc75-71ad0ac21d9c" isvisible="true">
         <title>GTM</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="43197adb-153b-468c-89a6-a141c77f4a8c" type="webcontent" adlcp:scormType="sco" href="index.html">
+    <resource identifier="96cfcfe1-270b-44c9-bc75-71ad0ac21d9c" type="webcontent" adlcp:scormType="sco" href="index.html">
       <file href="index.html" />
       <file href="precache-manifest.0e1fb0c2ab1e91cea2f7cb33781059ec.js" />
       <file href="SCORM_API_PRODUCTION.js" />
