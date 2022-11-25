@@ -7,7 +7,7 @@ window.structure = {
 		"font_family": "Lato",
 		"show_summary": "disabled",
 		"finish_btn": "disabled",
-		"gtm_container_id": "GTM-557WWWC"
+		"gtm_container_id": "GTM-WC8KZGN"
 	},
 	"structure": [{
 		"id": "3522b1f0-6bf1-11ed-bff2-1f23dc6095c8",
